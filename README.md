@@ -1,2 +1,3 @@
-# github-intro
-Introduction to Github Profile
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
+</div>
