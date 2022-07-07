@@ -17,7 +17,27 @@
   <h1>
   Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 </h1>
+  <h3>I am Simmy Varghese</h3>
+  <h6>(Open For Hiring)</h6>
 </div>  
 
 <hr>
+
+<div align="center">
+  
+ :woman_technologist: I am an evolving  Full Stack Developer with 7 years of IT experience  in testing and supporting multiple platforms
+
+ :clap: Recognized for being an enthusiastic learner :open_book: , team player and problem solver with an  :eyes:  for details. 
+
+ :heart: Love to create responsive web applications with  intuitive design and user experience. 
+</div>
+
+<hr>
+
+<div align="center">
+<h2>Languages && Tools</h2>
+  
+</div>
+
+
   
