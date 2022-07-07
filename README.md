@@ -25,24 +25,19 @@
 
 <div align="center">
   
- :woman_technologist: <span style="color:blue;">I am an evolving</span>  Full Stack Developer with 7 years of IT experience  in testing and supporting multiple platforms
+ :woman_technologist: I am an evolving  Full Stack Developer with 7 years of IT experience  in testing and supporting multiple platforms
 
  :clap: Recognized for being an enthusiastic learner :open_book: , team player and problem solver with an  :eyes:  for details. 
 
  :heart: Love to create responsive web applications with  intuitive design and user experience. 
+  
 </div>
 
 <hr>
 
 <div align="center" >
 <h2>Languages && Tools</h2>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" style="color: blue;" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"  title="Express" alt="ExpressJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  
 </div>
 
 
