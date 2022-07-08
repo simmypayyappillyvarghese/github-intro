@@ -14,11 +14,12 @@
   
 </div>
 <div align="center">
-  <h1>
-  Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
-</h1>
-  <h3>I am Simmy Varghese</h3>
-  <h6>(Open For Hiring)</h6>
+  
+  # Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
+  
+  ### I am Simmy Varghese
+  
+  ###### (Open For Hiring)
 </div>  
 
 <hr>
@@ -36,7 +37,7 @@
 <hr>
 
 <div align="center" >
-<h2>Languages & Tools</h2>
+## Languages & Tools
   
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
