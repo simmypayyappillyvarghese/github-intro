@@ -55,5 +55,13 @@
   ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 </div>
 
+<hr>
+
+<div align="center">
+  
+ ## :fire: My Stats
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=simmypayyappillyvarghese&theme=dark&background=000000)](https://git.io/streak-stats)
+</div>  
 
 
