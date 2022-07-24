@@ -64,6 +64,14 @@
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=simmypayyappillyvarghese&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
   
 </div>  
+<div align="left">
+
+  :pencil: Blog Posts
+  
+ <!--START_SECTION:feed-->
+<!--END_SECTION:feed-->
+  
+</div>
 <div align="center">
 
   :file_folder: Checkout my repos below :arrow_down:
