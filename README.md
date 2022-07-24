@@ -66,7 +66,7 @@
 </div>  
 <div align="left">
 
-  :pencil: Blog Posts
+  :pencil:  My Blog Posts
   
 <!-- BLOG-POST-LIST:START -->
 - [How To Create A Simple Carousel using CSS](https://medium.com/@simmyvarghese5/a-simple-carousel-using-css-e397d24afde0?source=rss-1bee7a15e1af------2)
@@ -74,6 +74,9 @@
 <!-- BLOG-POST-LIST:END -->
   
 </div>
+
+<br>
+
 <div align="center">
 
   :file_folder: Checkout my repos below :arrow_down:
