@@ -69,6 +69,8 @@
   :pencil: Blog Posts
   
 <!-- BLOG-POST-LIST:START -->
+- [How To Create A Simple Carousel using CSS](https://medium.com/@simmyvarghese5/a-simple-carousel-using-css-e397d24afde0?source=rss-1bee7a15e1af------2)
+- [Front End Developer — Entry Level Interview Question.](https://medium.com/@simmyvarghese5/front-end-developer-entry-level-interview-question-8994a647ef22?source=rss-1bee7a15e1af------2)
 <!-- BLOG-POST-LIST:END -->
   
 </div>
