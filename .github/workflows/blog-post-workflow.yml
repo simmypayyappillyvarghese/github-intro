@@ -11,8 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed-url: https://medium.com/feed/@simmyvarghese5
-          readme-section: feed
-          max: 10 # max number of items (default 5)
-          template: "#### [{{ title }}]({{ link }}) \n*{{ contentSnippet }}*\n\n"
+          max_post_count: "4"
+          feed_list: "https://dev.to/feed/itszed0"
