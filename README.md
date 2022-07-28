@@ -72,6 +72,8 @@
   :pencil:  My Blog Posts
   
 <!-- BLOG-POST-LIST:START -->
+- [Learn step-by-step to create a MVC application using Express.js-&lpar;MVC Series-1&rpar;](https://medium.com/@simmyvarghese5/learn-step-by-step-to-create-an-mvc-application-using-express-js-mvc-series-1-a719f209f5be?source=rss-1bee7a15e1af------2)
+- [Learn step-by-step to create a MVC application using Express.js-&lpar;MVC Series-2&rpar;](https://medium.com/@simmyvarghese5/learn-step-by-step-to-create-an-mvc-application-using-express-js-mvc-series-2-77df2f20889d?source=rss-1bee7a15e1af------2)
 - [How To Create A Simple Carousel using CSS](https://medium.com/@simmyvarghese5/a-simple-carousel-using-css-e397d24afde0?source=rss-1bee7a15e1af------2)
 - [Front End Developer — Entry Level Interview Question.](https://medium.com/@simmyvarghese5/front-end-developer-entry-level-interview-question-8994a647ef22?source=rss-1bee7a15e1af------2)
 <!-- BLOG-POST-LIST:END -->
